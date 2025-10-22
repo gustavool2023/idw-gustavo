@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "fecha": "2025-10-22",
+    "hora": "09:30",
+    "medicoId": 1,
+    "especialidadId": 5,
+    "obraSocialId": 1,
+    "pacienteNombre": "Juan Pérez",
+    "pacienteDni": "12345678"
+  },
+  {
+    "id": 2,
+    "fecha": "2025-10-23",
+    "hora": "11:00",
+    "medicoId": 2,
+    "especialidadId": 4,
+    "obraSocialId": 2,
+    "pacienteNombre": "María García",
+    "pacienteDni": "23456789"
+  }
+]
